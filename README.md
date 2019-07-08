@@ -26,17 +26,17 @@ Methods:
     iv. llp_bus_dict(): This is a method that returns a dictionary of skills and their learning paths in the business category.
 
 
-    b. Creative Learning paths:
-      i. llp_cre_csv(): This is a method that returns a CSV file of all the learning paths in the creative category.
-      ii. llp_cre_skills(): This is a method that returns a list of all the skills in the creative category.
-      iii. llp_cre_courses(): This is a method that returns a list of all the learning paths in the creative category.
-      iv. llp_cre_dict(): This is a method that returns a dictionary of skills and their learning paths in the creative category.
+   b. Creative Learning paths:
+     i. llp_cre_csv(): This is a method that returns a CSV file of all the learning paths in the creative category.
+     ii. llp_cre_skills(): This is a method that returns a list of all the skills in the creative category.
+     iii. llp_cre_courses(): This is a method that returns a list of all the learning paths in the creative category.
+     iv. llp_cre_dict(): This is a method that returns a dictionary of skills and their learning paths in the creative category.
 
-    c. Technology Learning paths:
-        i. llp_tech_csv(): This is a method that returns a CSV file of all the learning paths in the Technology category.
-        ii. llp_tech_skills(): This is a method that returns a list of all the skills in the Technology category.
-        iii. llp_tech_courses(): This is a method that returns a list of all the learning paths in the Technology category.
-        iv. llp_tech_dict(): This is a method that returns a dictionary of skills and their learning paths in the Technology category.
+   c. Technology Learning paths:
+     i. llp_tech_csv(): This is a method that returns a CSV file of all the learning paths in the Technology category.
+     ii. llp_tech_skills(): This is a method that returns a list of all the skills in the Technology category.
+     iii. llp_tech_courses(): This is a method that returns a list of all the learning paths in the Technology category.
+     iv. llp_tech_dict(): This is a method that returns a dictionary of skills and their learning paths in the Technology category.
 
 
 Installation

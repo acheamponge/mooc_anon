@@ -1,0 +1,7 @@
+README.md
+mooc_anon.py
+setup.py
+mooc_anon.egg-info/PKG-INFO
+mooc_anon.egg-info/SOURCES.txt
+mooc_anon.egg-info/dependency_links.txt
+mooc_anon.egg-info/top_level.txt

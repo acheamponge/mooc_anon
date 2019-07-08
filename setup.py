@@ -7,10 +7,10 @@ setuptools.setup(
      scripts=['mooc_anon.py'] ,
      author="Emmanuel Acheampong",
      author_email="achampion.emma@gmail.com",
-     description="MOOC Anonymous",
+     description="MOOC Anonymous is a python package for helping the online learning community.",
      long_description=long_description,
    long_description_content_type="text/markdown",
-     url="https://github.com/javatechy/dokr",
+     url="https://github.com/acheamponge/mooc_anon",
      packages=setuptools.find_packages(),
      classifiers=[
          "Programming Language :: Python :: 3",
